@@ -1,0 +1,3 @@
+assay_name: {{ cookiecutter.assay_name }}
+owner: {{ cookiecutter.owner }}
+date: {{ cookiecutter.date }}
