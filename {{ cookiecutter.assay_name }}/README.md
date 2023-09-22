@@ -1,1 +1,1 @@
-something: {{ cookiecutter.something }}
+{{ cookiecutter.what_should_go_here? }}
