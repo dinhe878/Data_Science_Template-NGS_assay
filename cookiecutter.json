@@ -1,6 +1,6 @@
 {
     "assay_name": "Name of the file",
-    "date": "Date of sequencing, should be the same as defined by Genomics Platform in YYYYMMDD format!",
+    "date": "Date of sequencing",
     "owner": "Who performed the experiment?",
     "short_desc": "Provide a short summary of the experiment"
 }
