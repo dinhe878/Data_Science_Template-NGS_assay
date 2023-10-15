@@ -1,3 +1,5 @@
 assay_name: {{ cookiecutter.assay_name }}
-owner: {{ cookiecutter.owner }}
-date: {{ cookiecutter.date }}
+assay_creator: {{ cookiecutter.assay_creator }}
+assay_creator_email: {{ cookiecutter.assay_creator_email }}
+start_date: {{ cookiecutter.start_date }}
+short_description: {{ cookiecutter.short_desc }}

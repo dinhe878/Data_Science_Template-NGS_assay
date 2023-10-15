@@ -1,6 +1,7 @@
 {
-    "assay_name": "Name of the file",
-    "date": "Date of sequencing",
-    "owner": "Who performed the experiment?",
-    "short_desc": "Provide a short summary of the experiment"
+    "assay_name": "Name of the assay",
+    "start_date": "Starting date of the assay",
+    "assay_creator": "Who is creating the assay?",
+    "assay_creator_email": "Creator email?",
+    "short_desc": "Provide a short summary of the assay"
 }
